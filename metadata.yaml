@@ -1,0 +1,33 @@
+_repo: Napol-on-et-Alexandre-Ier--3-3-L-alliance-russe-sous-le-premier-Empire_32621
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vandal, Albert
+    birthdate: 1853
+    deathdate: 1910
+    gutenberg_agent_id: '33226'
+    url: http://www.gutenberg.org/2009/agents/33226
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2010-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32621'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Foreign relations -- 1792-1815'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Relations with Russians'
+- !lcsh 'Russia -- Foreign relations -- 1801-1825'
+- !lcsh 'Russia -- Foreign relations -- France'
+- !lcc 'DC'
+- !lcsh 'France -- Foreign relations -- Russia'
+title: 'Napoléon et Alexandre Ier (3/3)
+
+  L''alliance russe sous le premier Empire'
+url: http://www.gutenberg.org/ebooks/32621
